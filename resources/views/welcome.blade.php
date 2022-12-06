@@ -57,6 +57,153 @@
                     <p>Get Licensed</p>
                 </div>
             </div>
+
+            <div class="driving-coaches">
+                <h2>Our Instructors</h2>
+                <div class="instructor-container">
+                    <div>
+                        <div class="image-container">
+                            <img src="/storage/instructor.png"/>
+                        </div>
+                        <div class="title-continer">
+                            <h4>Josn Smith</h4>
+                            <p>Senior Instructor</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="image-container">
+                            <img src="/storage/instructor.png"/>
+                        </div>
+                        <div class="title-continer">
+                            <h4>Josn Smith</h4>
+                            <p>Senior Instructor</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="image-container">
+                            <img src="/storage/instructor.png"/>
+                        </div>
+                        <div class="title-continer">
+                            <h4>Josn Smith</h4>
+                            <p>Senior Instructor</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="image-container">
+                            <img src="/storage/instructor.png"/>
+                        </div>
+                        <div class="title-continer">
+                            <h4>Josn Smith</h4>
+                            <p>Senior Instructor</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="detail-package">
+                <h2>Special Package</h2>
+                <div class="pricing-container">
+                    <div class="pricing-box">
+                        <div class="header">
+                            <h3>Silver</h3>
+                        </div>
+                        <div class="detail">
+                            <div>8 Hours</div>
+                            <div>Monday to Friday</div>
+                            <div>Flexible Times</div>
+                            <div>Avanza or Xenia</div>
+                            <div>Manual</div>
+                        </div>
+                        <div class="price">
+                            <h3>Rp 500.000</h3>
+                        </div>
+                    </div>
+                    <div class="pricing-box">
+                        <div class="header">
+                            <h3>Gold</h3>
+                        </div>
+                        <div class="detail">
+                            <div>12 Hours</div>
+                            <div>Monday to Saturday</div>
+                            <div>Flexible Times</div>
+                            <div>Avanza or Xenia or Rush</div>
+                            <div>Manual or Matic</div>
+                        </div>
+                        <div class="price">
+                            <h3>Rp 900.000</h3>
+                        </div>
+                    </div>
+                    <div class="pricing-box">
+                        <div class="header">
+                            <h3>Platinum</h3>
+                        </div>
+                        <div class="detail">
+                            <div>24 Hours</div>
+                            <div>All week</div>
+                            <div>Flexible Times</div>
+                            <div>Rush or Innova</div>
+                            <div>Manual or Matic</div>
+                        </div>
+                        <div class="price">
+                            <h3>Rp 1.200.000</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="contact">
+                <h2>Contact Us</h2>
+                <div class="contact-container">
+                    <form class="contact-form">
+                        <div class="form-control-custom">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" placeholder="John Smith" />
+                        </div>
+                        <div class="form-control-custom">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" placeholder="08123123122" />
+                        </div>
+                        <div class="form-control-custom">
+                            <label for="address">Address</label>
+                            <input type="text" id="address" placeholder="Jl. Jendral Sudirman No 123" />
+                        </div>
+                        <div class="form-control-custom">
+                            <label for="address">City</label>
+                            <select id="address">
+                                <option>Jakarta</option>
+                                <option>Surabaya</option>
+                                <option>Semarang</option>
+                                <option>Solo</option>
+                                <option>Jogjakarta</option>
+                                <option>Malang</option>
+                                <option>Medan</option>
+                                <option>Pekanbaru</option>
+                                <option>Denpasar</option>
+                                <option>Palembang</option>
+                            </select>
+                        </div>
+                        <div class="form-control-custom">
+                            <label for="address">Package</label>
+                            <select id="address">
+                                <option>Silver</option>
+                                <option>Gold</option>
+                                <option>Platinum</option>
+                            </select>
+                        </div>
+                        <button type="submit">SEND</button>
+                    </form>
+                    <div class="contact-address-container">
+                        <h4>PT. DRIVING SCHOOL INDONESIA</h4>
+                        <p class="title">Head Office</p>
+                        <p class="value">Jl. Jendral Sudirman 123, Jakarta Selatan</p>
+                        <p class="title">Phone Number</p>
+                        <p class="value">+62 21 2312 312</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     <script src="js/app.js"></script>
     </body>
